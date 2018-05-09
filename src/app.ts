@@ -1,7 +1,7 @@
 import * as express from "express";
 import * as bodyParser from "body-parser";
-import {Response, Request, NextFunction} from "express";
-import Suggester from './Suggester';
+import { Response, Request, NextFunction } from "express";
+import Suggester from "./Suggester";
 
 // Create Express server
 const app = express();
