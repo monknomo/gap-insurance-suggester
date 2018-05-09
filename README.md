@@ -11,7 +11,7 @@ To interact with the running project, POST data to `/api/v1/products/gap/eligibi
       "term": 48
     } 
 
-The application defaults to offering gap insurance in te cases of insufficient data or otherwise ambiguous cases.  
+The application defaults to offering gap insurance in the cases of insufficient data or otherwise ambiguous cases.  
 In the case where it is possible to determine whether gap insurance is advisable, the following procedure is followed:
 
 
